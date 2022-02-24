@@ -1,0 +1,8 @@
+#title, .title2 {
+  color: blue;  
+}
+
+.title2 {
+    font-size: 16px;
+    font-style: italic;
+}
