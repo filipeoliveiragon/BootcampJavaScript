@@ -3,7 +3,7 @@ let user = {
     lastName: 'Oliveira Gonçalves'
 };
 
-//Recupera as chaves do objeto
+//Recupera as chaves do objetoñ
 console.log('Propriedades do objeto user: ', Object.keys(user));
 
 //Recupera os valores das chaves do objeto
